@@ -1,0 +1,100 @@
+B) Objects
+A) Objects
+C) Class
+A) Data encapsulation
+D) Because it uses the concept of data abstraction
+D) It supports abstract data but not the class
+D) Both A and B
+E) Both A and B
+D) Both A and B
+B) Object-oriented approach
+C) A procedure-oriented Language is a language that consists of writing a list of instructions
+A) A procedure-oriented language does not model real-world problems
+F) Both (b) and (d)
+A) Top-down approach
+B) Bottom-up approach
+B) Polymorphism
+D) Polymorphism
+A) FORTAN
+D) Member functions
+C) Instance Methods
+A) Member functions
+A) Private data
+A) True
+A) Static
+A) Class name
+C) 4 types
+D) Entity Abstraction
+A) Action Abstraction
+B) Virtual Machine Abstraction
+C) Coincidental Abstraction
+A) Encapsulation
+B) Concurrency
+D) Persistence
+C) Manipulators are special functions that can be included in the I/O statements to alter the format parameters of a stream
+A) iomanip
+C) ostream
+A) ios stream class contains a pointer to a buffer object
+E) Both A and B
+D) Only B
+C) External objects
+D) Automatic objects
+A) Static objects
+B) Dynamic objects
+A) 2 types
+A) Class diagram
+B) Instance diagram
+A) A parameterized class is a class that denotes a family of classes whose structure and behavior are defined independently of its formal class parameter
+D) All of the above
+C) Inheritance
+A) Structure only holds the data, classes hold the data and functions
+C) Protected
+A) Private
+A) Auto variables are the variables that are visible to all the modules of a program
+C) Static variables are the variables that are defined within a function and retain their values from the previous call
+A) Constructor
+A) Constructors can be virtual
+C) Copy Constructor
+A) Only (i)
+B) Absence of ambiguity
+B) 5 types
+D) Multilevel inheritance
+C) Hierarchical inheritance
+C) Private
+B) False
+A) Increase, decrease
+B) Virtual inheritance
+C) Disinheritance
+A) Virtual Base class
+B) Generalization
+A) Polymorphism
+C) Dynamic Binding
+A) One-to-One association
+B) 3 types
+B) No
+A) Abstract class
+B) No
+B) False
+C) Polymorphism
+A) Early binding simply means that an object is bound to its function call at compile time
+C) Static binding
+B) The virtual function can be a static member
+A) True
+B) Overloaded function
+B) Pure Virtual Function
+A) Yes
+B) No
+A) Function Overloading
+A) Friend Function
+B) 
+B) False
+B) 3 types
+B) An exception can be recovered. Errors cannot be recovered.
+C) Both i and ii
+D) All of the above
+B) Hybrid inheritance
+C) Multilevel inheritance
+A) Scope Resolution Operator (::)
+B) Override
+A) Hierarchical inheritance
+B) 5 types

@@ -1,0 +1,100 @@
+An object is considered to be a partitioned area of computer memory that stores and set of operations that can access the data.
+When a program is executed, the objects interact by sending a message to one another. For example, if "customer" and "account" are two objects in a program, then the customer object may send a message to the account object requesting the back balance.
+Objects are the variables of the type Class. Once the class has been defined, we can create any number of objects belonging to that class.
+Data encapsulation is the most striking feature of the class.
+Since classes use the concept of data abstraction therefore they are known as Abstract data types (ADT).
+Object-oriented approach supports both abstract data and class, which provide polymorphism and inheritance.
+Modula-3 and Ada 95 are the languages that support an object-oriented approach.
+Modula-3 and 83 Ada are the languages that support an object-based approach.
+Inheritance and Dynamic binding are the concepts that object-based programming languages do not support.
+Object-oriented approach supports all the features along with inheritance and dynamic binding.
+A procedure-oriented Language is a language that consists of writing a list of instructions for the computer.
+A procedure-oriented language does not model real-world problems because functions are action-oriented.
+A Procedure-oriented language emphasizes doing things or algorithms and object-oriented language emphasizes data rather than procedure.
+A procedure-oriented language follows a Top-down approach whereas object-oriented programming languages follow a bottom-up approach.
+A procedure-oriented language follows a Top-down approach whereas object-oriented programming languages follow a bottom-up approach.
+Polymorphism behavior depends upon the types of data used in the operation. For example, if we have two int type data and we add them, then the result produced will be also of the type int.
+Polymorphism means having many forms and it can be used in the same manner with different actions. Therefore it is extensively used in implementing inheritance.
+FORTAN, ALGOL, C, etc. are some of the programming languages which do not follow the concept of OOP.
+Member functions declared inside a class have to be defined separately outside the class. They are much like normal functions.
+The subroutines contained in an object are called instance methods.
+A member function incorporates a membership 'identity label' in the header. This 'label' refers to which class the function belongs to.
+A member function can access private data of the class but a non-member function cannot do that.
+An object cannot invoke a private function using the dot operator as it does not have access.
+Static member variables are initialized to zero when the first object of its class is created. NO other alternative is provided.
+Static member function can be called using the class name (instead of an object name).
+There are 4 types of abstraction in an object-oriented programming language. They are as follows: Entity abstraction, Action abstraction, Virtual Machine Abstraction, and coincidental Abstraction.
+Entity Abstraction is an object that represents a useful model of a problem domain or solution-domain entity.
+Action Abstraction is an object that provides a general set of operations, all of which perform the same kind of function.
+Virtual Machine Abstraction is an object that groups together operations that are all used by some superior level of control or operations that all use some junior-level set of operations.
+A coincidental Abstraction is an object that packages a set of operations that have no relations to each other.
+Encapsulation is the process of compartmentalizing the elements of an abstraction that contribute to its structure and behavior.
+Concurrency is the property that distinguishes an active object from one that is not active.
+Persistence is the property of an object through which its existence transcends time (i.e. the object exists after its creator ceases to exist).
+Manipulators are special functions that can be included in the I/O statements to alter the format parameters of a stream. We use iomanip to access manipulators.
+We use iomanip to access manipulators.
+A ostream is a mechanism for converting values of various types into a sequence of characters. It mainly handles output.
+ios stream class contains a pointer to a buffer object, also it contains basic functionalities.
+istream stream class inherits the properties of ios and also it contains an overloaded extraction operator >>.
+iostream class inherits the properties of istream and ostream.
+An object which is visible throughout a program module is called an External object. Also known as Global objects.
+Object which exists for a particular period is called Automatic objects, also known as local objects.
+A Static object is an object which has the scope of an automatic object but the lifetime of an external object.
+A dynamic object gets its memory allocated at runtime.
+There are 2 types of object diagrams: Class diagrams and instance diagrams.
+A Class diagram is a schema or pattern for describing many possible instances of data.
+An Instance diagram describes how a particular set of objects relate to each other.
+A parameterized class is a class that denotes a family of classes whose structure and behavior are defined independently of its formal class parameter.
+A Meta class is a class of a class that may not itself have any instances and are different than plain classes.
+The relationship between base class and derived class comes under the inheritance.
+Structure only holds the data and Classes hold the data and functions both.
+Protected access specifier makes the class member accessible outside the class but can be accessed by any subclass of that class.
+Private access specifier has a strict access control only members of the class can access private members.
+Auto variables are the variables that are visible to all the modules of a program. All the variables are defined as auto variables by default.
+Static variables are the variables that are defined within a function and retain their values from the previous call.
+When an object is created an initialization needs to be done which is automatically done by the constructor function, it constructs the value of the member class.
+Constructors cannot be virtual, because there is not a virtual table in the memory.
+Copy Constructor is invoked when an object is passed by value to a function.
+A private constructor is a special instance constructor, which has no other arguments.
+The absence of ambiguity is one of the following are main benefits of single inheritance.
+There are total 5 types of inheritances - Single, Multiple, Hybrid, Hierarchical, and Multilevel.
+In Multilevel inheritance, the child or derived class inherits the features of the superclass, and simultaneously these child class acts as a superclass for another derived class.
+In Hierarchical inheritance one class act as a superclass for more than one subclass.
+The default visibility mode in inheritance is private.
+If the base class is inherited privately then the public members of the base class become private members of the derived class and the protected members of the base class become private members of the derived class.
+When we override an inherited method in a subclass, we can increase its access but not decrease it.
+Virtual inheritance is a type of inheritance in which the implementation of a superclass is incomplete.
+Virtual inheritance is also known as Disinheritance.
+Virtual base classes are mainly designed to overcome the disadvantage of multiple inheritances.
+Generalization is the relationship between a class and one or more refined versions of it.
+Polymorphism does not use base class and derived class.
+Dynamic Binding is associated with polymorphism and inheritance.
+The following diagram depicts the one-to-one association as every country has a capital city.
+There are three types of associations: One-to-one association, Many-to-Many association, and Ternary association.
+No, aggregation and generalization are not the same things as aggregation relates to instances and generalization relates to classes.
+A class containing one or more pure virtual functions is known as an Abstract class.
+We cannot create an object of abstract class type.
+Derived classes can be built from abstract classes.
+Polymorphism refers to the ability to perform operations without knowing the type of object they'll be operated on.
+Early binding simply means that an object is bound to its function call at compile time.
+Early binding is also known as static binding.
+Virtual function cannot be a static member.
+If the virtual function is defined in the base class, it needs not be necessarily redefined in the derived class. In such cases, calls will invoke the base function.
+If two functions with the same name have different prototypes, C++ considers them as overloaded functions.
+Pure virtual Function is a function declared in a base class that has no definition relative to the base class.
+Destructors are declared as virtual.
+Constructors cannot be virtual.
+Function Overloading is a mechanism that helps us to get compile-time polymorphism.
+The friend function is not a member of a class but still has access to the private data of a class.
+The correct syntax of a friend function:
+Friend Functions can access the private data of other classes.
+3 types of parameter parsing are supported by C++. They are as follows: Pass by value, Pass by address, Pass by reference.
+Exceptions can be recovered by try-catch blocks, Errors cannot be recovered.
+Exception occurs at both runtime and compiles time.
+Scope Resolution Operator (::), Ternary Operator (? :), Member Access or Dot Operator (.) these are the operators which cannot be overloaded.
+Hybrid inheritance is the combination of multiple and multilevel inheritances so therefore in the given diagram, lecturer, department, the student refers as multilevel inheritance and marks and students refer as multiple inheritances.
+In the given syntax, class B is derived from the base class A and class C is derived from the derived class B.
+Scope Resolution Operator (::), is used to access the static variable and static function of a class.
+Scope Resolution Operator (::), is used to override function in the Inheritance.
+All the sections inherit the student properties and thus follow the format of hierarchical inheritance.
+There are 5 types of functions in Object-oriented programming languages, they are: Simple functions, Static functions, Const functions, Inline functions, and Friend functions.

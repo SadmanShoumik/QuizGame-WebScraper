@@ -1,0 +1,100 @@
+1. ____ is considered to be a partitioned area of computer memory that stores and set of operations that can access the data.
+2. When a program is executed, the ____ interacted by sending a message to one another.
+3. Objects are the variables of the type ____?
+4. What is the most striking feature of class?
+5. Why classes are known as abstract data types (ADT)?
+6. Which is not true about the object-oriented approach?
+7. Which language among the following support an object-oriented approach?
+8. Which language among the following support an object-based approach?
+9. Which concept is not supported by object-based programming languages?
+10. Which approach among the following supports all the features along with inheritance and dynamic binding?
+11. What is procedure-oriented Language?
+12. Which one of the following is the demerit of procedure-oriented languages?
+13. Which one of the following states the correct difference between object-oriented programming and object-based programming?
+14. Procedure-oriented languages follow which approach?
+15. Object-oriented languages follow which approach?
+16. Which feature's behavior of OOP depends upon the types of data used in the operation.
+17. Which features of OOP are extensively used in implementing inheritance?
+18. Which language does not follow the concept of OOP?
+19. Which functions are declared inside a class have to be defined separately outside the class?
+20. The subroutines contained in an object are called _____ methods.
+21. Which function incorporates a membership 'identity label' in the header?
+22. A non-member function cannot access which data of the class?
+23. An object cannot invoke a private function using the dot operator?
+24. ____ member variables are initialized to zero when the first object of its class is created?
+25. A static member function can be called using the ____ name.
+26. How many types of abstractions are there in an object-oriented programming language?
+27. An object that represents a useful model of a problem domain is which type of abstraction?
+28. An object that provides a general set of operations, all of which perform the same kind of function is which type of abstraction?
+29. An object that groups together operations that are all used by some superior level of control or operations that all use some junior-level set of operations is which type of abstraction?
+30. An object that packages a set of operations that have no relations to each other is which type of abstraction?
+31. ____ is the process of compartmentalizing the elements of an abstraction that contribute to its structure and behavior?
+32. ____ is the property that distinguishes an active object from one that is not active?
+33. ____ is the property of an object through which its existence transcends time?
+34. What are manipulators?
+35. To access manipulators the file ____ should be included in the program.
+36. A _____ is a mechanism for converting values of various types into a sequence of characters.
+37. What is ios stream class?
+38. What is istream stream class?
+39. What is iostream stream class?
+40. A _____ object is visible throughout a program module.
+41. A _____ object which exists for a particular period.
+42. A _____ object is an object which has the scope of an automatic object but the lifetime of an external object.
+43. A _____ object gets its memory allocated at runtime.
+44. How many types of object diagrams are there?
+45. A ____ diagram is a schema or pattern for describing many possible instances of data.
+46. A ____ diagram describes how a particular set of objects relate to each other.
+47. What is a parameterized class?
+48. Which of the following defines a Meta class?
+49. Under which pillar of OOPS do base class and derived class relationships come?
+50. Which one of the following defines correct differences between structure and class?
+51. Which access specifier makes the class member accessible outside the class but can be accessed by any subclass of that class?
+52. Which access specifiers have strict access control?
+53. What are auto variables?
+54. What are Static variables?
+55. When an object is created an initialization needs to be done which is automatically done by the ____ function?
+56. Which one of the following is not the characteristic of a constructor?
+57. The _____ constructor is invoked when an object is passed by value to a function.
+58. What are private constructors?
+59. Which one of the following is the main benefit of single inheritance?
+60. How many types of valid inheritance are there?
+61. In which type of inheritance the child or derived class inherits the features of the superclass and simultaneously this child class acts as a superclass for another derived class?
+62. In which type of inheritance does one class act as a superclass for more than one sub-class?
+63. The default visibility mode in inheritance is ____?
+64. If the base class is inherited privately then the public members of the base class become protected members of the derived class and the protected members of the base class become public members of the derived class?Is this statement True or False?
+65. When we override an inherited method in a subclass, we can _____ its access but not ____ it?
+66. This is the type of inheritance in which the implementation of a superclass is incomplete.
+67. Virtual inheritance is also known as ____.
+68. Which class is mainly designed to overcome the disadvantage of multiple inheritances?
+69. _____ is the relationship between a class and one or more refined versions of it.
+70. Which concept of object-oriented programming language does not use base class and derived class?
+71. _____ is associated with polymorphism and inheritance.
+72. See the following diagram and identify the type of association?
+73. How many types of associations are there?
+74. Are aggregation and generalization the same thing?
+75. A class containing one or more pure virtual functions is known as ____?
+76. Can we create an object of abstract class type?
+77. State whether a statement is true or false?Derived classes cannot be built from abstract classes.
+78. _____ refers to the ability to perform operations without knowing the type of object they'll be operated on. 
+79. What is early binding?
+80. Early binding is also known as____?
+81. Which of the following statement is not true for virtual functions?
+82. If the virtual function is defined in the base class, it needs not be necessarily redefined in the derived class.Is this statement true or false?
+83. If two functions with the same name have different prototypes, C++ considers them as ____?
+84. ____ Function is a function declared in a base class that has no definition relative to the base class.
+85. Can a destructor be virtual?
+86. Can a constructor be virtual?
+87. ____ is a mechanism that helps us to get compile-time polymorphism.
+88. Which function is not a member of a class but still has access to private data of a class?
+89. State the correct syntax of a friend function.
+90. 'Friend Functions cannot access the private data of other class'. Is this statement true or false?
+91. How many types of parameter parsing does C++ support?
+92. Which statement tells the correct difference between Exception and Error?
+93. Does an exception occur?
+94. Select the correct operator which cannot be overloaded.
+95. Watch the diagram closely and identify the type of inheritance?
+96. The syntax is given below shows which type of inheritance?
+97. Which operator is used to access the static variable and static function of a class?
+98. The scope resolution operator is used to ____ function in the Inheritance.
+99. If there are different sections of an organization such as IT, computer science, Civil, Mechanical, etc. Each organization has the same attributes such as student name, roll number, year, etc. which comes under a class Student then this comes under which type of inheritance?
+100. How many types of functions are there in an object-oriented programming language?

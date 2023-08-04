@@ -1,0 +1,473 @@
+1
+Classes
+Objects
+Variables
+Functions
+2
+Objects
+Classes
+Operating system
+Memory
+3
+String
+Boolean
+Class
+All data types can be included
+4
+Data encapsulation
+Collection of objects of similar type
+Inheritance
+All of the above
+5
+Because classes are user-defined data types
+Because it supports the theory of hierarchical classification
+Because it allows dynamic binding
+Because it uses the concept of data abstraction
+6
+Emphasis is on data rather than procedure
+Data is hidden and cannot be accessed by external functions
+Objects communicate through functions
+It supports abstract data but not the class
+7
+Modula-3
+Ada 95
+Modula-2
+Both A and B
+8
+Modula-3
+83 Ada
+Modula-2
+Ada 95
+Both A and B
+9
+Inheritance
+Dynamic binding
+Only A
+Both A and B
+10
+Object-based approach
+Object-oriented approach
+11
+A procedure-oriented Language is a language that incorporates all object-oriented programming features
+A procedure-oriented Language is a language that supports encapsulation and object identity
+A procedure-oriented Language is a language that consists of writing a list of instructions
+A procedure-oriented Language is a language that does not support Inheritance and Dynamic binding
+12
+A procedure-oriented language does not model real-world problems
+In procedure-oriented Language message parsing is difficult
+A procedure-oriented Language works slowly
+In procedure-oriented Language, it is difficult to apply the inheritance concept
+13
+A procedure-oriented language emphasizes data rather than procedure.An object-oriented language emphasizes doing things or algorithms.
+A procedure-oriented language emphasizes doing things or algorithms.An object-oriented language emphasizes data rather than procedure.
+In procedure-oriented programs are decomposed into functions.In an object-oriented language, large programs are decomposed into functions.
+In procedure-oriented language, large programs are decomposed into functionsIn an object-oriented language, programs are decomposed into functions.
+Both (a) and (b)
+Both (b) and (d)
+14
+Top-down approach
+Bottom-up approach
+15
+Top-down approach
+Bottom-up approach
+16
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+17
+Dynamic binding
+Abstraction
+Operator overloading
+Polymorphism
+18
+FORTAN
+RUBY
+JADE
+SCALA
+19
+Static functions
+Const functions
+Inline functions
+Member functions
+20
+Class Methods
+Static Methods
+Instance Methods
+Interface Methods
+21
+Member functions
+Normal functions
+Inline functions
+Constant functions
+22
+Private data
+Public data
+Protected data
+All of the above
+23
+True
+False
+24
+Static
+Local
+Global
+External
+25
+Class name
+Object name
+26
+2 types
+3 types
+4 types
+None
+27
+Action Abstraction
+Virtual Machine Abstraction
+Coincidental Abstraction
+Entity Abstraction
+28
+Action Abstraction
+Virtual Machine Abstraction
+Coincidental Abstraction
+Entity Abstraction
+29
+Action Abstraction
+Virtual Machine Abstraction
+Coincidental Abstraction
+Entity Abstraction
+30
+Action Abstraction
+Virtual Machine Abstraction
+Coincidental Abstraction
+Entity Abstraction
+31
+Encapsulation
+Abstraction
+Classes
+Inheritance
+32
+Typing
+Concurrency
+Hierarchy
+Persistence
+33
+Object
+Concurrency
+Hierarchy
+Persistence
+34
+Manipulators are used to specify a character that is used to fill the unused portion of the field
+Manipulators are used to clear the flags specified
+Manipulators are special functions that can be included in the I/O statements to alter the format parameters of a stream
+Manipulators contain large numbers of member functions
+35
+iomanip
+ios
+#include
+None
+36
+istream
+ios
+ostream
+iostream
+37
+ios stream class contains a pointer to a buffer object
+ios stream class inherits the properties of ios
+ios stream contains overloaded insertion operator<<
+ios stream contains overloaded extraction operator>>
+38
+ios stream class inherits the properties of ios.
+ios stream contains overloaded extraction operator>>.
+Only A
+Only B
+Both A and B
+39
+iostream class inherits the properties of ios.
+iosstream class inherits the properties of istream and ostream.
+Only A
+Only B
+Both A and B
+40
+Static objects
+Dynamic objects
+External objects
+Automatic objects
+41
+Static objects
+Dynamic objects
+External objects
+Automatic objects
+42
+Static objects
+Dynamic objects
+External objects
+Automatic objects
+43
+Static objects
+Dynamic objects
+44
+2 types
+3 types
+4 types
+None
+45
+Class diagram
+Instance diagram
+46
+Class diagram
+Instance diagram
+47
+A parameterized class is a class that denotes a family of classes whose structure and behavior are defined independently of its formal class parameter
+A parameterized class is a class that uses the concept of a Meta class
+A parameterized class is a class of a class
+48
+A Meta class is a class that may not itself have any instances.
+A Meta class is a class of a class.
+Meta classes are classes that are different than plain classes.
+All of the above
+49
+Abstraction
+Encapsulation
+Inheritance
+Polymorphism
+50
+Structure only holds the data, classes hold the data and functions
+The structure holds the data and functions, classes only hold the data
+The structure is the instance of the class, classes are a set of objects
+Members of structure and class can be both public and private
+51
+Private
+Public
+Protected
+52
+Private
+Public
+Protected
+53
+Auto variables are the variables that are visible to all the modules of a program
+Auto variables are the variables that speed up the allocation of the CPU
+Auto variables are the variables that are defined inside a function
+Auto variables are the variables whose scope is limited
+54
+Static variables are the variables that are visible in specific functions
+Static variables are the variables that speed up the allocation of the CPU
+Static variables are the variables that are defined within a function and retain their values from the previous call
+All the variables are static variables by default
+55
+Constructor
+Destructor
+Friend
+Member
+56
+Parameterized Constructor
+Default Constructors
+Copy Constructor
+57
+A private constructor is a special instance constructor.
+Private constructors are the constructors which can be used on the object without being explicitly defined.
+58
+Only (i)
+Only (ii)
+Both (i) and (ii)
+There is no concept of private constructors.
+59
+Presence of ambiguity
+Absence of ambiguity
+Provides modularity
+Does not provide modularity
+60
+4 types
+5 types
+6 types
+3 types
+61
+Hybrid inheritance
+Multiple inheritances
+Hierarchical inheritance
+Multilevel inheritance
+62
+Hybrid inheritance
+Multiple inheritances
+Hierarchical inheritance
+Multilevel inheritance
+63
+Protected
+Public
+Private
+64
+True
+False
+65
+Increase, decrease
+Decrease, increase
+66
+Single inheritance
+Virtual inheritance
+Multiple inheritances
+Hybrid inheritance
+67
+Clear inheritance
+Private inheritance
+Disinheritance
+Multiple inheritances
+68
+Virtual Base class
+Base class
+Abstract class
+Partial class
+69
+Special inheritance
+Generalization
+Inheritance
+70
+Polymorphism
+Abstraction
+Over ridding
+71
+Message parsing
+Abstraction
+Dynamic Binding
+Encapsulation
+72
+One-to-One association
+Many-to-Many association
+Ternary association
+73
+2 types
+3 types
+4 types
+It does not have any type
+74
+Yes
+No
+75
+Abstract class
+Static class
+Instance class
+76
+Yes
+No
+77
+True
+False
+78
+Abstract base class
+Abstract class
+Polymorphism
+Operator overloading
+79
+Early binding simply means that an object is bound to its function call at compile time
+Early binding simply means that an object is bound to its function call at runtime
+80
+Dynamic binding
+Late binding
+Static binding
+Run time binding
+81
+The virtual function must be members of some class
+The virtual function can be a static member
+Virtual functions are accessed by using an object pointer
+The virtual function can be a friend of another class
+82
+True
+False
+83
+Friend Function
+Overloaded function
+Abstract function
+Operator overloading function
+84
+Virtual Function
+Pure Virtual Function
+Friend Function
+Static Function
+85
+Yes
+No
+86
+Yes
+No
+87
+Function Overloading
+Function Overriding
+88
+Friend Function
+Pure Virtual Function
+Static Function
+Abstract Function
+89
+
+Class ABC{
+*****
+Friend public:
+*****
+Void xyz(); }
+
+Class ABC{
+*****
+public:
+*****
+Friend Void xyz(); }
+
+
+Class ABC{
+*****
+Friend public:
+*****
+Friend Void xyz(); }
+
+
+Class ABC{
+*****
+public::friend()
+*****
+Friend Void xyz(); }
+
+90
+True
+False
+91
+2 types
+3 types
+4 types
+92
+Runtime
+Compile-time
+93
+Only i
+Only ii
+Both i and ii
+94
+Scope Resolution Operator (::)
+Ternary Operator (? :)
+Member Access or Dot Operator (.)
+All of the above
+95
+Hierarchical inheritance
+Hybrid inheritance
+Multilevel inheritance
+Multiple inheritances
+96
+Hierarchical inheritance
+Hybrid inheritance
+Multilevel inheritance
+Multiple inheritances
+97
+Scope Resolution Operator (::)
+Ternary Operator (? :)
+Member Access or Dot Operator (.)
+All of the above
+98
+Overload
+Override
+99
+Hierarchical inheritance
+Hybrid inheritance
+Multilevel inheritance
+Multiple inheritances
+100
+4 types
+5 types
+2 types
+6 types
